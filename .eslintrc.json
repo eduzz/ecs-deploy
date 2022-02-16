@@ -1,0 +1,4 @@
+{
+  "extends": ["@eduzz/eslint-config-houston/node"],
+  "rules": {}
+}

@@ -1,0 +1,5 @@
+name: "Eduzz Ecs Deploy"
+description: "Action for deploy on AWS w"
+runs:
+  using: "node16"
+  main: "dist/index.js"
